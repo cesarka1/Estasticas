@@ -5,14 +5,14 @@ namespace EstatisticasAPI.Models
         public double CalcularMedia(string[] m)
         {
             double soma = 0;
-            double resultado;
+            double resultado = 0;
             try
             {
-                for (var i = 0; i < m.Lenght; i++)
+                for (var i = 0; i < m.Length; i++)
                 {
-                    soma += m[i];
+                    soma += double.Parse(m[i]);
                 }
-                reultado = soma/m.Lenght+1;
+                resultado = soma/m.Length+1;
             }
             catch (System.Exception ex)
             {
