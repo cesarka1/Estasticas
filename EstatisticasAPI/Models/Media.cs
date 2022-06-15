@@ -12,7 +12,7 @@ namespace EstatisticasAPI.Models
                 {
                     soma += double.Parse(m[i]);
                 }
-                resultado = soma/m.Length+1;
+                resultado = soma/m.Length;
             }
             catch (System.Exception ex)
             {
