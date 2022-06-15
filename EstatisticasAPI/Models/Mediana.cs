@@ -11,7 +11,7 @@ namespace EstatisticasAPI.Models
                 //Organizar Roll
                 for (int i = 0; i < m.Length; i++)
                 {
-                    for (int x = 1; x < m.Length; x++)
+                    for (int x = i+1; x < m.Length; x++)
                     {
                        if (double.Parse(m[i]) > double.Parse(m[x]))
                        {
@@ -27,7 +27,7 @@ namespace EstatisticasAPI.Models
                 }
                 else
                 {
-                   mediana = (double.Parse(m[(m.Length/2)]) + double.Parse(m[(m.Length/2)+1]) )/2 ;
+                   mediana = (double.Parse(m[(m.Length/2)]) + double.Parse(m[(m.Length/2)+1]) )/2 -1 ;
                 }
 
             }
