@@ -193,19 +193,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuário\\.nuget\\packages\\": {}
+    "C:\\Users\\android\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\Documents\\Curso Senai\\Modelagem de Sistemas\\Estatisticas\\Estasticas\\EstatisticasAPI\\EstatisticasAPI.csproj",
+      "projectUniqueName": "C:\\Users\\android\\Documents\\GitHub\\Estasticas\\EstatisticasAPI\\EstatisticasAPI.csproj",
       "projectName": "EstatisticasAPI",
-      "projectPath": "C:\\Users\\Usuário\\Documents\\Curso Senai\\Modelagem de Sistemas\\Estatisticas\\Estasticas\\EstatisticasAPI\\EstatisticasAPI.csproj",
-      "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário\\Documents\\Curso Senai\\Modelagem de Sistemas\\Estatisticas\\Estasticas\\EstatisticasAPI\\obj\\",
+      "projectPath": "C:\\Users\\android\\Documents\\GitHub\\Estasticas\\EstatisticasAPI\\EstatisticasAPI.csproj",
+      "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\android\\Documents\\GitHub\\Estasticas\\EstatisticasAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\android\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

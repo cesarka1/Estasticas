@@ -14,7 +14,7 @@ namespace EstatisticasAPI.Models
                 }
                 resultado = soma/m.Length;
             }
-            catch (System.Exception ex)
+            catch (System.Exception)
             {
                  return -1;
             }
