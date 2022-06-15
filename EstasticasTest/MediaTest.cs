@@ -10,9 +10,9 @@ namespace EstasticasTest
         public void TestMedia()
         {
             Media media = new Media();
-            string[] valores = {"10", "6"};
+            string[] valores = {"5", "2", "2"};
             double resultado = media.CalcularMedia(valores);
-            double esperado = 8;
+            double esperado = 3;
             Assert.AreEqual(esperado, resultado);
         }
     }
