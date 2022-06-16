@@ -10,10 +10,10 @@ namespace EstatisticasAPI.Controllers
         {
             [HttpGet]
             [Route ("GetMedia")]
-            public ActionResult<double> GetMedia(string m)
+            public ActionResult<double> GetMedia(string ValoresSeparadosPorEspaço)
             {
                 Media media = new Media();
-                return media.CalcularMedia(m);
+                return media.CalcularMedia(ValoresSeparadosPorEspaço);
             }
 
         }

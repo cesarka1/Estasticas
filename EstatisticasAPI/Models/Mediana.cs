@@ -31,7 +31,7 @@ namespace EstatisticasAPI.Models
                 
                 if (valores.Length % 2 == 0)
                 {
-                   mediana = (valores[(valores.Length/2)] + valores[(valores.Length/2)+1])/2;
+                   mediana = (valores[(valores.Length/2)-1] + valores[(valores.Length/2)])/2;
                 }
                 else
                 {
