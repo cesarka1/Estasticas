@@ -24,6 +24,7 @@ namespace EstatisticasAPI.Controllers
                 Media media = new Media();
                 string[] valores = {valor1.ToString(), valor2.ToString(), valor3.ToString()};
                 return media.CalcularMedia(valores).ToString();
+                
             }
         }
 }
