@@ -10,9 +10,9 @@ namespace EstasticasTest
         public void TestMediana()
         {
             Mediana mediana = new Mediana();
-            string[] valores = {"3", "10", "2", "7"};
+            string valores = "4 5 2 7 1";
             double resultado = mediana.CalcularMediana(valores);
-            double esperado = 5;
+            double esperado = 4;
             Assert.AreEqual(esperado, resultado);
         }
     }
