@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = EstasticasTest
-build_property.ProjectDir = C:\Users\Usuário\Documents\Curso Senai\Modelagem de Sistemas\Estatisticas\Estasticas\EstasticasTest\
+build_property.ProjectDir = c:\Users\android\Documents\GitHub\Estasticas\EstasticasTest\

@@ -35,11 +35,16 @@ namespace EstatisticasAPI.Models
                 {
                     int x = i+1;
                     contagem = 0;
-                    while (valores[i] == valores[x])
-                    {
-                        contagem+= 1;
-                        x++;
-                    }
+                    
+                        while (valores[i] == valores[x] & x <= valores.Length-1)
+                        {
+                           contagem+= 1;
+                           if ( x < valores.Length-1)
+                            {
+                                x++;
+                            }
+                         }
+                    
 
                     if (i == 0)
                     {
@@ -52,8 +57,9 @@ namespace EstatisticasAPI.Models
                             moda = valores[i];
                         }
                     }
-                    i = x;
+                    i = x -1;
                     contagem_anterior = contagem;
+                    
 
                 }
 

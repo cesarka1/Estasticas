@@ -27,3 +27,32 @@ C:\Users\Usuário\Documents\Curso Senai\Modelagem de Sistemas\Estatisticas\Estas
 C:\Users\Usuário\Documents\Curso Senai\Modelagem de Sistemas\Estatisticas\Estasticas\EstatisticasAPI\obj\Debug\net5.0\ref\EstatisticasAPI.dll
 C:\Users\Usuário\Documents\Curso Senai\Modelagem de Sistemas\Estatisticas\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.pdb
 C:\Users\Usuário\Documents\Curso Senai\Modelagem de Sistemas\Estatisticas\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.genruntimeconfig.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.exe
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.deps.json
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.runtimeconfig.json
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.runtimeconfig.dev.json
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\ref\EstatisticasAPI.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\EstatisticasAPI.pdb
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.AssemblyInfo.cs
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\staticwebassets\EstatisticasAPI.StaticWebAssets.Manifest.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\staticwebassets\EstatisticasAPI.StaticWebAssets.xml
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\scopedcss\bundle\EstatisticasAPI.styles.css
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.csproj.CopyComplete
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\ref\EstatisticasAPI.dll
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.pdb
+C:\Users\android\Documents\GitHub\Estasticas\EstatisticasAPI\obj\Debug\net5.0\EstatisticasAPI.genruntimeconfig.cache

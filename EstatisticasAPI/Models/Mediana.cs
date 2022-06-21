@@ -35,7 +35,8 @@ namespace EstatisticasAPI.Models
                 }
                 else
                 {
-                   mediana = valores[valores.Length/2];
+                   mediana = valores[valores.Length/2]; 
+                   aux =  valores.Length/2;
                 }
                 
             }
