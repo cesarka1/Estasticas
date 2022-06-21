@@ -6,7 +6,8 @@ namespace EstatisticasAPI.Models
         {
             string[] valoresstring = m.Split(" ");
             double[] valores = new double[valoresstring.Length];
-            double aux;
+            double aux = 0;
+            int auxi = 0;
             double moda = 0;
             int contagem = 0;
             int contagem_anterior = 0;
@@ -31,21 +32,22 @@ namespace EstatisticasAPI.Models
                     }
                 }
                 
-                for (int i = 0; i < valores.Length; i++)
+                for (int i = 0; i < valores.Length-1; i++)
                 {
-                    int x = i+1;
+                    
                     contagem = 0;
                     
-                        while (valores[i] == valores[x] & x <= valores.Length-1)
+                    for (int x = i+1; x < valores.Length; x++)
+                    {
+                        auxi = x;
+                        if (valores[i] == valores[x])
                         {
-                           contagem+= 1;
-                           if ( x < valores.Length-1)
-                            {
-                                x++;
-                            }
-                         }
-                    
-
+                            contagem+= 1;
+                        }
+                        else{
+                            x = valores.Length;
+                        }
+                    }
                     if (i == 0)
                     {
                         moda = valores[0];
@@ -56,8 +58,14 @@ namespace EstatisticasAPI.Models
                         {
                             moda = valores[i];
                         }
+
+                        if (contagem == contagem_anterior)
+                        {
+                            //Consertar e colocar como vetor
+                            moda = valores[i];
+                        }
                     }
-                    i = x -1;
+                    i = auxi -1;
                     contagem_anterior = contagem;
                     
 
@@ -69,7 +77,7 @@ namespace EstatisticasAPI.Models
             {
                 return -1;
             }
-            return contagem_anterior;
+            return moda;
         }
     }
 }
